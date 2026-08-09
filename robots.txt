@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klimencukstepan-maker.github.io/reference-a1bo79/sitemap.xml
